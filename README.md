@@ -1,1 +1,1 @@
-https://developer-maythinn.github.io/simple-html-scss-template/
+https://simple-html-scss-template.vercel.app/
